@@ -9,6 +9,8 @@ namespace coderogue.Helpers
     public const int yMax = 20;
 
     public const string TileDisplayCharacter = ".";
+    public const string PlayerDisplayCharacter = "@";
+    public const string WallDisplayCharacter = "#";
   }
 
 }
